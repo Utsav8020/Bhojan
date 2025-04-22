@@ -1,4 +1,4 @@
-# delicious_india
+# Bhojan
 
 Food identifier app with build in encyclopedia and AI to help traveler explore the cuisine of India
 
